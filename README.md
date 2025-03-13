@@ -1,69 +1,67 @@
 ![Ironhack](https://i.imgur.com/1QgrNNw.png)
 
-# HTML & CSS | Responsive Cloning Product Hunt
+# HTML y CSS | Clonación Responsiva de Product Hunt
 
-## Introduction
+## Introducción
 
-[Product Hunt](https://www.producthunt.com/) is a website that lets users share and discover new products. The site, which was founded by Ryan Hoover in November 2013, is backed by Y Combinator. Users submit products which are listed in a linear format by day.
+[Product Hunt](https://www.producthunt.com/) es un sitio web que permite a los usuarios compartir y descubrir nuevos productos. Fundado por Ryan Hoover en noviembre de 2013, el sitio cuenta con el respaldo de Y Combinator. Los usuarios envían productos que se listan en formato lineal por día.
 
-Product Hunt is one of the best website to keep you updated about trending tech products. We recommend you to [visit the website](https://www.producthunt.com/) to see how it works... because you are going to clone it!
+Product Hunt es uno de los mejores sitios web para mantenerse al día sobre las últimas tendencias en productos tecnológicos. Le recomendamos [visitar el sitio web](https://www.producthunt.com/) para ver cómo funciona... ¡porque lo va a clonar!
 
-## Exercise
+## Ejercicio
 
-## Requirements
+## Requisitos
 
-We will work with the repo we have prepared for you. First of all, you have to get the exercise:
+Trabajaremos con el repositorio que hemos preparado para usted. Primero, necesitas completar el ejercicio:
 
-- [Fork this repo](https://guides.github.com/activities/forking/)
-- Clone this repo into your `~/code/labs`
-- Use SASS to create the styles of your page
-- Use Media Queries to create different layouts in your Product Hunt clone
+- [Bifurca este repositorio](https://guides.github.com/activities/forking/)
+- Clona este repositorio en `~/code/labs`
+- Usa SASS para crear los estilos de tu página
+- Usa Media Queries para crear diferentes diseños en tu clon de Product Hunt
 
-## Submission
+## Envío
 
-- Upon completion, run the following commands
+- Al finalizar, ejecuta los siguientes comandos:
 
-	```
-  git add .
-  git commit -m "done"
-  git push origin master
-  ```
+```
+git add .
+git commit -m "done"
+git push origin master
+```
 
-- Navigate to your repo and [create a Pull Request](https://help.github.com/articles/creating-a-pull-request/)
+- Navega a tu repositorio y [crea una solicitud de extracción](https://help.github.com/articles/creating-a-pull-request/)
 
-## Starter code
+## Código de inicio
 
-The starter code contains the basic structure of an HTML & SCSS project to start working. It also contains the Product Hunt logo in the /images folder, with some other images you may need during the exercise.
+El código de inicio contiene la estructura básica de un proyecto HTML y SCSS para empezar a trabajar. También contiene el logotipo de Product Hunt en la carpeta /images, junto con otras imágenes que podrías necesitar durante el ejercicio.
 
-Before start doing the project, remember you must have installed the [sass-autocompile](https://atom.io/packages/sass-autocompile) plugin in your atom editor.
+Antes de comenzar el proyecto, recuerda que debes tener instalado el plugin [sass-autocompile](https://atom.io/packages/sass-autocompile) en tu editor Atom.
 
-We have added one line in the SCSS file that will colorize the `<body>` background. Set the `<body>` font color to white and save the scss file to check out that the compiler is working fine. Once you have checked this out, you can start working on the exercise.
+Hemos añadido una línea al archivo SCSS que coloreará el fondo del `<body>`. Configura el color de fuente de `<body>` en blanco y guarda el archivo SCSS para comprobar que el compilador funciona correctamente. Una vez que lo hayas comprobado, puedes empezar a trabajar en el ejercicio.
 
-> **Note:** For the right side "Upcoming Live Chats" section, you can use a rounded `<div>` to represent the speacker picture.
+> **Nota:** Para la sección "Próximos chats en vivo" del lado derecho, puedes usar un `<div>` redondeado para representar la imagen del altavoz.
 
-## ViewPorts
+## Ventanas gráficas
 
-Product Hunt has an interesting Responsive design. We have done four different screenshots representing each of the different layouts you have to reproduce. 
+Product Hunt tiene un diseño adaptable interesante. Hemos creado cuatro capturas de pantalla diferentes que representan cada uno de los diferentes diseños que debes reproducir.
 
-Forget about super detail things on each box, the main goal of this exercise is to practice our skill to adapt content to differents screen sizes, and the main thing that changes from one resolution to another are the big boxes and how they are been displayed. Just pay attention to see which are the differences between all of them, and be sure you do your best to copy each.
+Olvídate de los detalles excesivos en cada cuadro. El objetivo principal de este ejercicio es practicar nuestra habilidad para adaptar el contenido a diferentes tamaños de pantalla. Lo que más cambia de una resolución a otra son los cuadros grandes y cómo se muestran. Simplemente presta atención a las diferencias entre ellos y asegúrate de copiarlos lo mejor posible.
 
-
-
-### LG (large - width > 1200px)
+### LG (grande - ancho > 1200 px)
 ![](https://i.imgur.com/IrOCbjL.png)
 
-### MD (medium - width > 992px)
+### MD (mediano - ancho > 992 px)
 ![](https://i.imgur.com/nDVp2dv.png)
 
-### SM (small - width > 600px)
+### SM (pequeño - ancho > 600 px)
 ![](https://i.imgur.com/uudBk5K.png)
 
-### XS (extra-small - width <= 600px)
+### XS (extrapequeño - ancho <= 600 px)
 ![](https://i.imgur.com/s8FpbyH.png)
 
-## Extra Resources
+## Recursos adicionales
 
-- [Atom editor sass-autocompile](https://atom.io/packages/sass-autocompile)
-- [Use of media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+- [Editor Atom sass-autocompile](https://atom.io/packages/sass-autocompile)
+- [Uso de multimedia] consultas](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
-**/Happy Coding!**
+**/¡Que disfrutes programando!**
